@@ -1,0 +1,30 @@
+article {
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 300px;
+    margin: auto;
+
+}
+
+
+.fekete {
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.feher {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.gyalog {
+width: 80%;
+margin: auto;
+padding: 5px;
+
+}
